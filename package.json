@@ -1,0 +1,29 @@
+{
+  "name": "stylelint-plugin-nanachi",
+  "version": "0.0.1-beta.0",
+  "description": "",
+  "main": "config/wx.json",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaoyudong/stylelint-plugin-nanachi.git"
+  },
+  "keywords": [
+    "stylelint",
+    "nanachi"
+  ],
+  "author": "roy shao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaoyudong/stylelint-plugin-nanachi/issues"
+  },
+  "homepage": "https://github.com/shaoyudong/stylelint-plugin-nanachi#readme",
+  "dependencies": {
+    "stylelint": "^10.0.1"
+  }
+}

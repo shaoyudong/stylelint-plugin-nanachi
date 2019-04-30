@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "../lib/rules/no-important.js"
+    ],
+    "rules": {
+        "nanachi/no-important": 2
+    }
+}
