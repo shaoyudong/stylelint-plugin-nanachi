@@ -7,7 +7,7 @@ nanachi stylelint插件，结合vscode使用，智能提示错误样式语法
 npm install stylelint stylelint-plugin-nanachi --save-dev
 ```
 ## 配置文件
-``` json
+``` js
 // .stylelintrc
 {
     "extends": [
