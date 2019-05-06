@@ -1,9 +1,11 @@
 {
     "plugins": [
         "../lib/rules/no-important.js",
-        "../lib/rules/no-schnee-selector.js"
+        "../lib/rules/no-schnee-selector.js",
+        "../lib/rules/no-id-selector.js"
     ],
     "rules": {
-        "nanachi/no-schnee-selector": [true, "bu"]
+        "nanachi/no-schnee-selector": [true, "bu"],
+        "nanachi/no-id-selector": true
     }
 }
