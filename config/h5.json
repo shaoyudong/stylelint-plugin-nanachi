@@ -1,5 +1,5 @@
 {
-    "plugins": [,
+    "plugins": [
         "../lib/rules/validate-style-path.js"
     ],
     "rules": {
