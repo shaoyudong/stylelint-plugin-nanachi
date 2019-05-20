@@ -2,3 +2,4 @@ node_modules
 .eslint
 .stylelint
 package-lock.json
+.publish_scripts
