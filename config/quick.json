@@ -4,13 +4,15 @@
         "../lib/rules/no-schnee-selector.js",
         "../lib/rules/validate-declaration.js",
         "../lib/rules/validate-rule.js",
-        "../lib/rules/no-id-selector.js"
+        "../lib/rules/no-id-selector.js",
+        "../lib/rules/validate-style-path.js"
     ],
     "rules": {
         "nanachi/no-important": true,
         "nanachi/no-schnee-selector": [true, "quick"],
         "nanachi/validate-declaration": true,
         "nanachi/validate-rule": true,
-        "nanachi/no-id-selector": true
+        "nanachi/no-id-selector": true,
+        "nanachi/validate-style-path": true
     }
 }

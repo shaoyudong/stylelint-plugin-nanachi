@@ -2,10 +2,12 @@
     "plugins": [
         "../lib/rules/no-important.js",
         "../lib/rules/no-schnee-selector.js",
-        "../lib/rules/no-id-selector.js"
+        "../lib/rules/no-id-selector.js",
+        "../lib/rules/validate-style-path.js"
     ],
     "rules": {
         "nanachi/no-schnee-selector": [true, "wx"],
-        "nanachi/no-id-selector": true
+        "nanachi/no-id-selector": true,
+        "nanachi/validate-style-path": true
     }
 }
