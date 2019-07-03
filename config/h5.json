@@ -1,8 +1,10 @@
 {
     "plugins": [
-        "../lib/rules/validate-style-path.js"
+        "../lib/rules/validate-style-path.js",
+        "../lib/rules/no-schnee-selector.js"
     ],
     "rules": {
-        "nanachi/validate-style-path": true
+        "nanachi/validate-style-path": true,
+        "nanachi/no-schnee-selector": [true, "h5"]
     }
 }
